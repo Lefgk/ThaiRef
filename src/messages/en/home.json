@@ -1,0 +1,68 @@
+{
+  "home": {
+    "hero": {
+      "badge": "Phuket's #1 Rated Tour Booking Platform",
+      "headline1": "Explore Paradise.",
+      "headline2": "Save Up to 50%.",
+      "subheadline": "Phi Phi Islands, James Bond Island, Similan, and 50+ curated tours. Direct operator prices. Free hotel pickup. Instant confirmation.",
+      "browseTours": "Browse All Tours",
+      "readReviews": "Read Reviews"
+    },
+    "stats": {
+      "travelers": "12,500+",
+      "travelersLabel": "Happy Travelers",
+      "reviews": "98%",
+      "reviewsLabel": "5-Star Reviews",
+      "tours": "50+",
+      "toursLabel": "Curated Tours",
+      "support": "24/7",
+      "supportLabel": "Support"
+    },
+    "featured": {
+      "sectionLabel": "Curated Experiences",
+      "title": "Explore Our Tours",
+      "subtitle": "Hand-picked tours across southern Thailand \u2014 Phuket, Krabi, Koh Samui, Khao Sok & more. Every tour includes our best-price guarantee.",
+      "customTourText": "Don't see what you're looking for? We can arrange any custom tour.",
+      "customTourCta": "Request a Custom Tour",
+      "customTourWhatsapp": "Hi! I'd like to arrange a custom tour. Can you help?"
+    },
+    "filters": {
+      "sortBy": "Sort:",
+      "mostPopular": "Most Popular",
+      "priceLowHigh": "Price: Low to High",
+      "priceHighLow": "Price: High to Low",
+      "topRated": "Top Rated",
+      "duration": "Duration:",
+      "anyDuration": "Any Duration",
+      "halfDay": "Half Day",
+      "fullDay": "Full Day",
+      "multiDay": "Multi-Day",
+      "maxPrice": "Max Price:",
+      "any": "Any",
+      "showing": "{count} tours",
+      "noResults": "No tours match your filters.",
+      "clearFilters": "Clear All Filters"
+    },
+    "howItWorks": {
+      "sectionLabel": "Simple Process",
+      "title": "How It Works",
+      "subtitle": "From browsing to boarding, we make it effortless.",
+      "step1Title": "Choose Your Tour",
+      "step1Desc": "Browse our curated selection of 50+ tours. Filter by category, read real reviews, and compare prices.",
+      "step2Title": "Book Instantly",
+      "step2Desc": "Reserve your spot via WhatsApp, email, or our booking form. Pay a small deposit, balance on tour day.",
+      "step3Title": "Enjoy Paradise",
+      "step3Desc": "Free hotel pickup at your door. Spend the day exploring islands, snorkeling, and making memories."
+    },
+    "categories": {
+      "all": "All Tours",
+      "islands": "Island Tours",
+      "krabi": "Krabi",
+      "samui": "Koh Samui",
+      "nature": "Nature & Jungle",
+      "luxury": "Luxury",
+      "diving": "Diving",
+      "activities": "Activities"
+    }
+  }
+}

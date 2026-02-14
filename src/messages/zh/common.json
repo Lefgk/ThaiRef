@@ -1,0 +1,85 @@
+{
+  "common": {
+    "nav": {
+      "tours": "旅游项目",
+      "reviews": "用户评价",
+      "howItWorks": "预订流程",
+      "faq": "常见问题",
+      "contact": "联系我们",
+      "bookNow": "立即预订"
+    },
+    "footer": {
+      "brandDescription": "普吉岛值得信赖的旅游预订平台。我们直接为您对接当地最优质的旅行社，提供无与伦比的优惠价格。",
+      "popularTours": "热门旅游",
+      "activities": "活动项目",
+      "contactUs": "联系我们",
+      "operatingHours": "营业时间",
+      "dailyHours": "每天 7:00 - 22:00",
+      "timezone": "泰国时间 (GMT+7)",
+      "location": "泰国普吉岛",
+      "copyright": "© {year} IslandTrip.co. 保留所有权利。",
+      "privacyPolicy": "隐私政策",
+      "termsOfService": "服务条款",
+      "refundPolicy": "退款政策",
+      "popularToursList": {
+        "phiPhi": "皮皮岛",
+        "jamesBond": "詹姆斯邦德岛",
+        "similan": "斯米兰群岛",
+        "fourIslands": "甲米四岛",
+        "racha": "拉查岛",
+        "sunsetCruise": "日落晚餐游轮"
+      },
+      "activitiesList": {
+        "scubaDiving": "水肺潜水",
+        "elephantSanctuary": "大象保护区",
+        "zipline": "丛林飞跃",
+        "fishing": "深海钓鱼",
+        "yacht": "私人游艇包船",
+        "kayaking": "皮划艇"
+      }
+    },
+    "tourCard": {
+      "freePickup": "免费接送",
+      "perPerson": "每人",
+      "bookNow": "立即预订",
+      "bookWhatsapp": "您好！我对{tourTitle}旅游项目感兴趣（{price} THB）。可以帮我预订吗？"
+    },
+    "trustBadges": {
+      "freeCancellation": "免费取消",
+      "bestPrice": "最低价保证",
+      "instantConfirmation": "即时确认",
+      "hotelPickup": "包含酒店接送",
+      "licensed": "持证经营 & 全额保险",
+      "tatApproved": "泰国旅游局认证",
+      "securePayments": "安全支付",
+      "emailSupport": "7x24小时邮件客服"
+    },
+    "languageSwitcher": {
+      "en": "English",
+      "ru": "Русский",
+      "zh": "中文",
+      "th": "ไทย"
+    },
+    "urgency": {
+      "spotsLeft": "仅剩 {count} 个名额！",
+      "bookingsToday": "今日已有 {count} 人预订"
+    },
+    "emailCapture": {
+      "title": "首次预订立享9折优惠",
+      "subtitle": "加入12,500+旅行者的行列。获取专属优惠、内行攻略和限时特价。",
+      "placeholder": "输入您的邮箱",
+      "cta": "领取优惠",
+      "noSpam": "绝无垃圾邮件，随时可退订。",
+      "success": "注册成功！请查收邮箱中的优惠码。"
+    },
+    "relatedTours": {
+      "title": "您可能还喜欢",
+      "subtitle": "您会喜欢的相似线路"
+    },
+    "gallery": {
+      "viewAll": "查看全部照片",
+      "close": "关闭",
+      "photo": "第 {current} 张，共 {total} 张"
+    }
+  }
+}

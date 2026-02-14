@@ -1,0 +1,44 @@
+{
+  "faq": {
+    "sectionLabel": "Got Questions?",
+    "title": "Frequently Asked Questions",
+    "stillHaveQuestions": "Still have questions?",
+    "teamResponds": "Our team responds within minutes via email. Ask us anything!",
+    "chatWithUs": "Chat With Us",
+    "whatsappText": "Hi! I have a question about your tours.",
+    "items": [
+      {
+        "question": "Is hotel pickup included?",
+        "answer": "Yes! Most tours include free hotel pickup and drop-off from Phuket (Patong, Kata, Karon, Rawai, Kamala, Bangtao, Surin, Phuket Town). Krabi and Samui tours pick up from hotels in those areas. Check each tour for details."
+      },
+      {
+        "question": "What is the cancellation policy?",
+        "answer": "Free cancellation up to 24 hours before the tour. Full refund, no questions asked. Cancel up to 3 PM the day before for most tours."
+      },
+      {
+        "question": "Are tours safe for children?",
+        "answer": "Most island tours are suitable for children aged 4+. Life jackets are provided in all sizes. Children under 4 are typically free, ages 4-11 get 50% off. Some activities like scuba diving and zipline have age/height restrictions listed on each tour page."
+      },
+      {
+        "question": "What should I bring?",
+        "answer": "Sunscreen (reef-safe preferred), swimwear, towel, sunglasses, waterproof phone case, and cash for national park fees (some tours don't include them). Snorkel gear, lunch, and drinks are provided on all tours."
+      },
+      {
+        "question": "When is the best time to visit?",
+        "answer": "November to April is peak season with calm seas and clear skies. Similan Islands are only open Oct-May. Maya Bay closes Aug-Sep. June to September is monsoon season \u2014 cheaper prices but rougher seas and some tours may be cancelled."
+      },
+      {
+        "question": "How do I pay?",
+        "answer": "We accept credit/debit cards (Visa, Mastercard), PayPal, and bank transfers. Pay a small deposit to secure your booking, and the rest on the day of the tour."
+      },
+      {
+        "question": "Do you offer tours outside Phuket?",
+        "answer": "Yes! We cover all of southern Thailand \u2014 Krabi, Koh Samui, Khao Sok National Park, Khao Lak, Koh Lanta, and Phang Nga. Many tours include transfers from Phuket."
+      },
+      {
+        "question": "Can you arrange custom tours?",
+        "answer": "Absolutely! Contact us via WhatsApp for custom itineraries, private tours, multi-day packages, or anything not listed. We can arrange almost anything in southern Thailand."
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "common": {
+    "nav": {
+      "tours": "Туры",
+      "reviews": "Отзывы",
+      "howItWorks": "Как это работает",
+      "faq": "Вопросы",
+      "contact": "Контакты",
+      "bookNow": "Забронировать"
+    },
+    "footer": {
+      "brandDescription": "Надёжная платформа бронирования туров на Пхукете. Мы связываем вас напрямую с лучшими местными операторами по лучшим ценам.",
+      "popularTours": "Популярные туры",
+      "activities": "Активности",
+      "contactUs": "Связаться с нами",
+      "operatingHours": "Часы работы",
+      "dailyHours": "Ежедневно 7:00 - 22:00",
+      "timezone": "Время Таиланда (GMT+7)",
+      "location": "Пхукет, Таиланд",
+      "copyright": "\u00a9 {year} IslandTrip.co. Все права защищены.",
+      "privacyPolicy": "Политика конфиденциальности",
+      "termsOfService": "Условия использования",
+      "refundPolicy": "Политика возврата",
+      "popularToursList": {
+        "phiPhi": "Острова Пхи-Пхи",
+        "jamesBond": "Остров Джеймса Бонда",
+        "similan": "Симиланские острова",
+        "fourIslands": "4 острова Краби",
+        "racha": "Остров Рача",
+        "sunsetCruise": "Круиз с ужином на закате"
+      },
+      "activitiesList": {
+        "scubaDiving": "Дайвинг",
+        "elephantSanctuary": "Заповедник слонов",
+        "zipline": "Зиплайн-приключение",
+        "fishing": "Морская рыбалка",
+        "yacht": "Аренда частной яхты",
+        "kayaking": "Каякинг"
+      }
+    },
+    "tourCard": {
+      "freePickup": "Бесплатный трансфер",
+      "perPerson": "за человека",
+      "bookNow": "Забронировать",
+      "bookWhatsapp": "Здравствуйте! Меня интересует тур {tourTitle} ({price} THB). Можете помочь с бронированием?"
+    },
+    "trustBadges": {
+      "freeCancellation": "Бесплатная отмена",
+      "bestPrice": "Гарантия лучшей цены",
+      "instantConfirmation": "Мгновенное подтверждение",
+      "hotelPickup": "Трансфер из отеля включён",
+      "licensed": "Лицензия и страховка",
+      "tatApproved": "Операторы одобрены TAT",
+      "securePayments": "Безопасные платежи",
+      "emailSupport": "Поддержка по email 24/7"
+    },
+    "languageSwitcher": {
+      "en": "English",
+      "ru": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+      "zh": "\u4e2d\u6587",
+      "th": "\u0e44\u0e17\u0e22"
+    },
+    "urgency": {
+      "spotsLeft": "Осталось всего {count} мест!",
+      "bookingsToday": "{count} бронирований сегодня"
+    },
+    "emailCapture": {
+      "title": "Получите скидку 10% на первый тур",
+      "subtitle": "Присоединяйтесь к 12 500+ путешественникам. Эксклюзивные предложения, советы от местных и мгновенный доступ к акциям.",
+      "placeholder": "Введите ваш email",
+      "cta": "Получить скидку",
+      "noSpam": "Без спама, отписаться можно в любой момент.",
+      "success": "Вы с нами! Проверьте почту — там ваш промокод."
+    },
+    "relatedTours": {
+      "title": "Вам также может понравиться",
+      "subtitle": "Похожие туры, которые вам понравятся"
+    },
+    "gallery": {
+      "viewAll": "Все фотографии",
+      "close": "Закрыть",
+      "photo": "Фото {current} из {total}"
+    }
+  }
+}

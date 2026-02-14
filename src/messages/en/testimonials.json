@@ -1,0 +1,66 @@
+{
+  "testimonials": {
+    "sectionLabel": "Trusted by Thousands",
+    "title": "What Our Travelers Say",
+    "subtitle": "Real reviews from real travelers. Over 12,500 happy customers and counting.",
+    "verifiedBadge": "Verified Traveler",
+    "items": [
+      {
+        "name": "Sarah & James",
+        "location": "London, UK",
+        "text": "The Phi Phi sunrise tour was absolutely magical. We had Maya Bay almost to ourselves. The small group size made it feel so exclusive. Worth every baht!",
+        "tour": "Phi Phi Sunrise Tour",
+        "date": "2 weeks ago",
+        "avatar": "SJ"
+      },
+      {
+        "name": "Michael T.",
+        "location": "Sydney, Australia",
+        "text": "Booked the James Bond Island tour and it exceeded all expectations. The kayaking through sea caves was the highlight of our entire Thailand trip.",
+        "tour": "James Bond Island",
+        "date": "1 month ago",
+        "avatar": "MT"
+      },
+      {
+        "name": "Emma & David",
+        "location": "Toronto, Canada",
+        "text": "The Similan Islands are unreal. Clearest water I've ever seen. The booking was seamless and hotel pickup was right on time. Highly recommend!",
+        "tour": "Similan Islands",
+        "date": "3 weeks ago",
+        "avatar": "ED"
+      },
+      {
+        "name": "Lisa K.",
+        "location": "Berlin, Germany",
+        "text": "We did the elephant sanctuary and it was such a beautiful, ethical experience. You can see the elephants are truly happy and well cared for.",
+        "tour": "Elephant Sanctuary",
+        "date": "5 days ago",
+        "avatar": "LK"
+      },
+      {
+        "name": "Carlos M.",
+        "location": "Madrid, Spain",
+        "text": "Khao Sok floating bungalows were the highlight of our Thailand trip. Waking up on the lake surrounded by ancient jungle \u2014 unforgettable.",
+        "tour": "Khao Sok Floating Bungalow",
+        "date": "1 week ago",
+        "avatar": "CM"
+      },
+      {
+        "name": "Yuki & Ken",
+        "location": "Tokyo, Japan",
+        "text": "The Krabi 4 Islands tour was the best value we found anywhere. Beautiful islands, great snorkeling, and the longtail boat ride was an experience itself.",
+        "tour": "4 Islands Krabi",
+        "date": "2 months ago",
+        "avatar": "YK"
+      },
+      {
+        "name": "Anna R.",
+        "location": "New York, USA",
+        "text": "The Thai cooking class was so much fun! We visited a real local market and cooked 7 dishes. Best pad thai I've ever made. Taking the recipes home!",
+        "tour": "Thai Cooking Class",
+        "date": "4 days ago",
+        "avatar": "AR"
+      }
+    ]
+  }
+}

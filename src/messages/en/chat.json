@@ -1,0 +1,19 @@
+{
+  "chat": {
+    "title": "AI Travel Concierge",
+    "subtitle": "Tell me what you're looking for \u2014 I'll find your perfect tour",
+    "online": "Online",
+    "welcomeMessage": "Hey! I'm your Phuket travel assistant. Tell me what kind of experience you're looking for \u2014 islands, adventure, luxury, family fun \u2014 and I'll recommend the perfect tour for you.",
+    "tryAsking": "Try asking:",
+    "placeholder": "What kind of experience are you looking for?",
+    "disclaimer": "AI-powered recommendations. Prices may vary by season.",
+    "suggestions": [
+      "Best tour for families with kids?",
+      "I want to see Phi Phi Islands",
+      "What's the most romantic experience?",
+      "Cheapest island day trip?",
+      "I want an adrenaline adventure",
+      "Best snorkeling spots?"
+    ]
+  }
+}

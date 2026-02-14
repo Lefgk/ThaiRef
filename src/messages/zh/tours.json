@@ -1,0 +1,352 @@
+{
+  "tours": {
+    "detail": {
+      "tourHighlights": "行程亮点",
+      "whatsIncluded": "费用包含",
+      "faq": "常见问题",
+      "readyToExperience": "准备好体验{tourTitle}了吗？",
+      "bookNowSave": "立即预订，立省{discount}% — 名额有限。",
+      "allTours": "全部线路",
+      "home": "首页",
+      "toursLabel": "旅游线路",
+      "bookNowWhatsApp": "立即预订",
+      "freeCancellation24h": "出发前24小时可免费取消",
+      "perPerson": "每人",
+      "save": "立省{discount}%",
+      "freeHotelPickup": "免费酒店接送",
+      "reviews": "{count} 条评价",
+      "faqIncluded": "{tourTitle}行程包含哪些内容？",
+      "faqIncludedAnswer": "{tourTitle}包含：{includes}。行程时长为{duration}。",
+      "faqPickupYes": "{tourTitle}包含酒店接送吗？",
+      "faqPickupYesAnswer": "包含！{location}主要酒店均可享受免费接送服务。我们的司机会直接到您的酒店大堂接您。",
+      "faqPickupNo": "如何前往{tourTitle}的出发地点？",
+      "faqPickupNoAnswer": "此行程不包含酒店接送。您需要自行前往{location}的集合点。预订后我们会将准确地点和路线发送给您。",
+      "faqPricing": "{tourTitle}的价格是多少？取消政策是什么？",
+      "faqPricingAnswer": "{tourTitle}的价格为每人{price} {currency}（原价{originalPrice} {currency}）。出发前24小时可免费取消，全额退款，无需任何理由。",
+      "faqSwimming": "{tourTitle}适合不会游泳的人吗？",
+      "faqSwimmingAnswer": "所有游客均提供救生衣，建议穿着。大部分停靠点的浮潜为自愿参加。但如果行程包含潜水，建议具备基本游泳能力。我们的导游均经过水上安全培训。",
+      "faqBeginners": "{tourTitle}适合初学者吗？",
+      "faqBeginnersAnswer": "当然！{tourTitle}适合所有经验水平的参与者，包括零基础的初学者。全程均有专业教练和导游陪同指导。",
+      "faqBring": "参加{tourTitle}需要带什么？",
+      "faqBringAnswer": "建议穿着舒适的步行鞋，携带防晒霜、驱蚊液、帽子和防水袋。行程提供饮用水和茶点。",
+      "faqChildren": "{tourTitle}适合儿童参加吗？",
+      "faqChildrenAnswer": "大部分行程适合4岁及以上的儿童。各尺寸救生衣均有提供。4岁以下儿童通常免费，4-11岁可享五折优惠。如需了解具体年龄限制，请联系我们。"
+    },
+    "items": {
+      "phi-phi-speedboat": {
+        "title": "皮皮岛",
+        "subtitle": "快艇一日游",
+        "description": "游览玛雅湾、皮莱泻湖、维京洞穴，在清澈见底的海水中浮潜。小团出行，最多20位游客，体验更加私密。",
+        "badge": "最畅销",
+        "duration": "8-9小时",
+        "highlights": ["玛雅湾", "皮莱泻湖", "猴子海滩", "浮潜"],
+        "includes": ["酒店接送", "午餐", "浮潜装备", "国家公园门票"]
+      },
+      "james-bond-island": {
+        "title": "詹姆斯邦德岛",
+        "subtitle": "快艇畅游攀牙湾",
+        "description": "探索标志性的詹姆斯邦德岛，在海蚀洞中划皮划艇，参观水上渔村，发现攀牙湾隐秘的泻湖。",
+        "badge": "人气之选",
+        "duration": "7-8小时",
+        "highlights": ["詹姆斯邦德岛", "海上皮划艇", "洪岛", "水上渔村"],
+        "includes": ["酒店接送", "午餐", "皮划艇", "导游"]
+      },
+      "similan-islands": {
+        "title": "斯米兰群岛",
+        "subtitle": "浮潜天堂",
+        "description": "前往泰国排名第一的浮潜圣地。水晶般清澈的海水、洁白的沙滩和色彩缤纷的珊瑚礁。仅在每年10月至次年5月期间开放。",
+        "badge": "最高评分",
+        "duration": "全天",
+        "highlights": ["四号岛沙滩", "三处浮潜点", "唐老鸭湾", "岛上午餐"],
+        "includes": ["酒店接送", "午餐", "浮潜装备", "国家公园门票"]
+      },
+      "phi-phi-sunrise": {
+        "title": "皮皮岛日出之旅",
+        "subtitle": "抢先体验，避开人潮",
+        "description": "在人潮到来之前体验皮皮岛。凌晨5:30出发，日出时分抵达玛雅湾。最多18位游客，独享尊贵体验。",
+        "badge": "尊享版",
+        "duration": "10小时",
+        "highlights": ["玛雅湾日出", "最多18位游客", "三处浮潜点", "竹子岛"],
+        "includes": ["酒店接送", "早餐和午餐", "浮潜装备", "公园门票"]
+      },
+      "racha-island": {
+        "title": "拉查岛",
+        "subtitle": "珊瑚礁天堂",
+        "description": "距普吉仅30分钟船程，拉查岛拥有纯净洁白的沙滩和该地区最清澈的海水，是浮潜和潜水的绝佳去处。",
+        "duration": "7小时",
+        "highlights": ["白色沙滩", "珊瑚礁浮潜", "度假村午餐", "游泳"],
+        "includes": ["酒店接送", "午餐", "浮潜装备", "快艇"]
+      },
+      "koh-yao-escape": {
+        "title": "瑶岛休闲之旅",
+        "subtitle": "未经开发的世外桃源",
+        "description": "远离喧嚣，探索距普吉仅15分钟船程的瑶诺岛。原始海滩、当地渔村，以及该区域最宁静的海岛。",
+        "duration": "全天",
+        "highlights": ["原始海滩", "当地渔村", "自行车环岛游", "长尾船"],
+        "includes": ["酒店接送", "午餐", "渡轮接驳", "自行车租赁"]
+      },
+      "4-islands-krabi": {
+        "title": "甲米四岛",
+        "subtitle": "翡翠海洋探险",
+        "description": "探索甲米迷人的四大岛屿：塔岛、鸡岛、波达岛和帕南洞穴海滩。在翡翠色的安达曼海中畅游。",
+        "duration": "7-8小时",
+        "highlights": ["塔岛", "鸡岛", "帕南洞穴", "浮潜"],
+        "includes": ["酒店接送", "午餐", "浮潜装备", "长尾船"]
+      },
+      "hong-islands-krabi": {
+        "title": "洪岛群岛",
+        "subtitle": "隐秘泻湖探索之旅",
+        "description": "探索被高耸石灰岩悬崖环绕的秘密泻湖。人少景美，媲美皮皮岛，拥有原始沙滩和绝佳的浮潜环境。",
+        "badge": "小众宝藏",
+        "duration": "6-7小时",
+        "highlights": ["秘密泻湖", "石灰岩悬崖", "皮划艇", "浮潜"],
+        "includes": ["酒店接送", "午餐", "浮潜装备", "皮划艇"]
+      },
+      "railay-rock-climbing": {
+        "title": "莱利攀岩",
+        "subtitle": "世界级石灰岩峭壁",
+        "description": "在专业教练的指导下攀登莱利海滩闻名世界的石灰岩峭壁。从零基础到高手，各水平均适合。",
+        "badge": "最高评分",
+        "duration": "半天",
+        "highlights": ["专业教练", "新手友好", "绝美景观", "帕南洞穴海滩"],
+        "includes": ["全套攀岩装备", "教练", "保险", "船只接驳"]
+      },
+      "emerald-pool-hot-springs": {
+        "title": "翡翠池与温泉",
+        "subtitle": "丛林水疗之旅",
+        "description": "在著名的翡翠池中畅游，浸泡天然温泉，攀登1,237级台阶登上虎窟寺山顶观景台。",
+        "duration": "全天",
+        "highlights": ["翡翠池", "天然温泉", "虎窟寺", "丛林步道"],
+        "includes": ["酒店接送", "午餐", "导游", "门票"]
+      },
+      "krabi-sunset-dinner": {
+        "title": "甲米日落晚餐游轮",
+        "subtitle": "黄金时刻畅游四岛",
+        "description": "日落时分乘船前往波达岛、鸡岛、塔岛和莱利。船上享用烧烤晚餐，夜间与荧光浮游生物共泳。",
+        "badge": "浪漫之选",
+        "duration": "6小时",
+        "highlights": ["四座海岛", "烧烤晚餐", "荧光浮游生物", "日落美景"],
+        "includes": ["酒店接送", "烧烤晚餐", "软饮", "浮潜装备"]
+      },
+      "krabi-mangrove-kayak": {
+        "title": "红树林皮划艇",
+        "subtitle": "古老森林探险",
+        "description": "穿越古老的红树林，探索隐秘的洞穴和泻湖。在自然栖息地中观察猴子、珍稀鸟类和弹涂鱼。",
+        "duration": "半天",
+        "highlights": ["红树林隧道", "隐秘洞穴", "野生动物观察", "皮划艇"],
+        "includes": ["酒店接送", "皮划艇", "导游", "轻食茶点"]
+      },
+      "ang-thong-marine-park": {
+        "title": "安通海洋公园",
+        "subtitle": "42岛群岛",
+        "description": "探索壮观的42岛群岛，翡翠泻湖、隐秘洞穴和全景观景台尽在其中。皮划艇、浮潜、徒步，尽享天堂美景。",
+        "badge": "必去景点",
+        "duration": "8-9小时",
+        "highlights": ["42座岛屿", "翡翠泻湖", "皮划艇", "观景台徒步"],
+        "includes": ["酒店接送", "午餐", "皮划艇", "浮潜装备"]
+      },
+      "koh-tao-snorkel": {
+        "title": "龟岛与南园岛",
+        "subtitle": "浮潜一日游",
+        "description": "前往泰国最佳浮潜胜地——龟岛，打卡标志性的南园岛沙洲。邂逅海龟、热带鱼群和原始珊瑚礁。",
+        "duration": "10小时",
+        "highlights": ["南园岛沙洲", "海龟", "珊瑚礁", "三处浮潜点"],
+        "includes": ["酒店接送", "午餐", "浮潜装备", "快艇"]
+      },
+      "samui-island-tour": {
+        "title": "苏梅岛文化与自然之旅",
+        "subtitle": "岛屿精华游",
+        "description": "参观大佛寺、祖父祖母石、那芒瀑布和拉廓观景台。这是认识苏梅岛的最佳入门行程。",
+        "duration": "半天",
+        "highlights": ["大佛寺", "祖父祖母石", "那芒瀑布", "观景台"],
+        "includes": ["酒店接送", "导游", "门票", "饮用水"]
+      },
+      "samui-jeep-safari": {
+        "title": "苏梅岛丛林吉普车探险",
+        "subtitle": "越野冒险",
+        "description": "驾驶越野吉普车穿越橡胶种植园、隐秘观景点和当地村庄。探访瀑布，品尝当地水果，发现真正的苏梅岛。",
+        "duration": "半天",
+        "highlights": ["越野吉普车", "丛林瀑布", "当地村庄", "全景视野"],
+        "includes": ["酒店接送", "吉普车", "导游", "水果品尝"]
+      },
+      "full-moon-party": {
+        "title": "满月派对接送",
+        "subtitle": "帕岸岛快艇",
+        "description": "15分钟快艇直达帕岸岛哈林海滩的传奇满月派对。往返接送，让您尽情狂欢整夜。",
+        "badge": "人气之选",
+        "duration": "晚间",
+        "highlights": ["15分钟快艇", "往返接送", "世界闻名的派对", "哈林海滩"],
+        "includes": ["快艇接送", "救生衣", "返程接送"]
+      },
+      "khao-sok-floating-bungalow": {
+        "title": "考索水上木屋",
+        "subtitle": "两天原始丛林体验",
+        "description": "在翡翠色的朝兰湖上入住水上竹制木屋。丛林徒步、洞穴探险、皮划艇和野生动物观察一网打尽。",
+        "badge": "独特体验",
+        "duration": "2天1晚",
+        "highlights": ["水上木屋", "丛林徒步", "洞穴探险", "皮划艇"],
+        "includes": ["全部餐食", "木屋住宿", "皮划艇", "导游"]
+      },
+      "khao-sok-day-trip": {
+        "title": "考索湖一日游",
+        "subtitle": "地球上最古老的雨林",
+        "description": "长尾船游览朝兰湖，专业导游带队丛林徒步，在这片1.6亿年历史的雨林中畅游。",
+        "duration": "全天",
+        "highlights": ["朝兰湖", "丛林徒步", "游泳", "野生动物"],
+        "includes": ["酒店接送", "午餐", "游船", "导游"]
+      },
+      "khao-sok-night-safari": {
+        "title": "夜间探险与野生动物",
+        "subtitle": "夜间丛林冒险",
+        "description": "在世界上最古老的雨林之一，跟随专家导游观察夜行动物。邂逅长臂猿、犀鸟，运气好的话还能看到野生大象。",
+        "duration": "3-4小时",
+        "highlights": ["夜行动物", "专家导游", "长臂猿与犀鸟", "古老雨林"],
+        "includes": ["导游", "手电筒", "驱蚊液", "轻食茶点"]
+      },
+      "khao-lak-bamboo-rafting": {
+        "title": "竹筏漂流与瀑布",
+        "subtitle": "考拉克丛林日",
+        "description": "在风景秀丽的河流上竹筏漂流，参观通冲发瀑布，穿越茂密的考拉克丛林徒步。包含传统泰式午餐。",
+        "duration": "全天",
+        "highlights": ["竹筏漂流", "瀑布", "丛林徒步", "泰式午餐"],
+        "includes": ["酒店接送", "午餐", "装备", "导游"]
+      },
+      "similan-liveaboard": {
+        "title": "斯米兰船宿3晚",
+        "subtitle": "终极潜水之旅",
+        "description": "3晚船宿潜水之旅，前往斯米兰群岛和泰国最佳潜点——黎塞留岩。每天多次潜水，顶级装备配备。",
+        "badge": "尊享版",
+        "duration": "4天3晚",
+        "highlights": ["黎塞留岩", "10+次潜水", "全套装备", "全食宿"],
+        "includes": ["住宿", "全部餐食", "潜水装备", "潜水导游"]
+      },
+      "koh-lanta-4-islands": {
+        "title": "兰达岛四岛游",
+        "subtitle": "翡翠洞探险",
+        "description": "探访穆克岛著名的翡翠洞（穿越黑暗水道抵达隐秘沙滩），在克雷登岛浮潜，游览朱阿克岛，在奈岛悠闲放松。",
+        "badge": "小众宝藏",
+        "duration": "7-8小时",
+        "highlights": ["翡翠洞", "克雷登岛", "奈岛", "浮潜"],
+        "includes": ["酒店接送", "午餐", "浮潜装备", "国家公园门票"]
+      },
+      "koh-lanta-old-town": {
+        "title": "兰达岛老城",
+        "subtitle": "文化遗产漫步",
+        "description": "探索传统海上吉普赛村落，欣赏海上木桩屋、古老的中式骑楼，品尝地道的当地海鲜。",
+        "duration": "半天",
+        "highlights": ["海上吉普赛村", "木桩屋", "当地海鲜", "街头艺术"],
+        "includes": ["导游", "小吃品尝", "船只接驳"]
+      },
+      "private-yacht": {
+        "title": "私人游艇包船",
+        "subtitle": "奢华跳岛游",
+        "description": "包下您的专属游艇，定制跳岛行程。可前往皮皮岛、拉查岛、珊瑚岛或您心仪的任何目的地。",
+        "badge": "VIP",
+        "duration": "8小时",
+        "highlights": ["专属游艇", "定制行程", "船长与船员", "最多15位宾客"],
+        "includes": ["游艇与船员", "燃油", "浮潜装备", "软饮与水果"]
+      },
+      "sunset-dinner-cruise": {
+        "title": "日落晚餐游轮",
+        "subtitle": "安达曼海黄金时刻",
+        "description": "乘坐豪华双体帆船驶入落日余晖。享受精致自助晚餐、现场音乐和安达曼海岸的全景风光。",
+        "duration": "4小时",
+        "highlights": ["日落美景", "自助晚餐", "现场音乐", "无限畅饮"],
+        "includes": ["码头接送", "自助晚餐", "迎宾饮品", "娱乐表演"]
+      },
+      "scuba-diving": {
+        "title": "PADI 体验潜水",
+        "subtitle": "首次潜水体验",
+        "description": "零基础也能参加。在PADI认证教练的指导下于拉查岛体验潜水。探索热带鱼群、珊瑚花园，还有机会邂逅海龟。",
+        "badge": "PADI 认证",
+        "duration": "全天",
+        "highlights": ["2次潜水", "PADI教练", "全套装备", "水下拍照"],
+        "includes": ["酒店接送", "午餐", "全套潜水装备", "保险"]
+      },
+      "elephant-sanctuary": {
+        "title": "大象保护区",
+        "subtitle": "道德大象体验",
+        "description": "探访自然栖息地中获救的大象。喂食、泥浴、和温柔的巨人并肩同行。不骑乘，100%道德体验。",
+        "badge": "道德之选",
+        "duration": "半天",
+        "highlights": ["喂食大象", "泥浴", "河中沐浴", "拍照留念"],
+        "includes": ["酒店接送", "午餐", "导游", "换洗衣物"]
+      },
+      "zipline-adventure": {
+        "title": "Hanuman World 丛林飞跃",
+        "subtitle": "飞越丛林",
+        "description": "在普吉岛热带雨林中飞越32个平台，其中包括一条400米长的飞索。普吉岛终极肾上腺素体验。",
+        "duration": "3-4小时",
+        "highlights": ["32个平台", "400米飞索", "空中天桥", "绳降"],
+        "includes": ["酒店接送", "安全装备", "导游", "轻食"]
+      },
+      "fishing-trip": {
+        "title": "深海钓鱼",
+        "subtitle": "大鱼冒险",
+        "description": "出海享受一整天的深海钓鱼之旅。在安达曼海追钓旗鱼、马林鱼、金枪鱼等大型鱼类。",
+        "duration": "全天",
+        "highlights": ["全套钓具提供", "经验丰富的船长", "大型游钓", "包含午餐"],
+        "includes": ["码头接送", "钓鱼装备", "午餐和饮品", "鱼饵与冰块"]
+      },
+      "thai-cooking-class": {
+        "title": "泰式烹饪课",
+        "subtitle": "学习正宗泰菜",
+        "description": "先到当地市场挑选食材，然后在专业厨师的指导下烹制5-7道泰国菜。带走食谱和满满的成就感。",
+        "badge": "人气之选",
+        "duration": "半天",
+        "highlights": ["逛市场", "烹饪5-7道菜", "赠送食谱", "品尝自己的作品"],
+        "includes": ["酒店接送", "全部食材", "食谱", "结业证书"]
+      },
+      "muay-thai-experience": {
+        "title": "泰拳体验",
+        "subtitle": "像拳手一样训练",
+        "description": "跟随职业拳手学习正宗泰拳。私教靶训、技术训练和完整体能锻炼。欢迎各种健身水平的参与者。",
+        "duration": "1-2小时",
+        "highlights": ["职业拳手", "私人训练", "适合所有水平", "穿戴装备拍照"],
+        "includes": ["装备", "教练", "饮用水", "护手绷带"]
+      },
+      "atv-big-buddha": {
+        "title": "ATV越野车与大佛",
+        "subtitle": "越野冒险",
+        "description": "驾驶ATV越野车穿越普吉岛丛林小径抵达大佛观景台。俯瞰海湾全景，随后参观查龙寺。",
+        "duration": "2小时",
+        "highlights": ["ATV越野", "大佛观景台", "丛林小径", "查龙寺"],
+        "includes": ["酒店接送", "ATV与头盔", "导游", "保险"]
+      },
+      "old-town-food-walk": {
+        "title": "老城美食与文化之旅",
+        "subtitle": "普吉岛徒步游",
+        "description": "探索普吉老城的葡式建筑、街头艺术和当地市场。在游客鲜少光顾的隐秘餐厅品尝8道以上当地美食。",
+        "duration": "4小时",
+        "highlights": ["8种以上美食品尝", "街头艺术", "葡式建筑", "当地市场"],
+        "includes": ["全部美食品尝", "导游", "饮用水", "地图"]
+      },
+      "jet-ski-island-hop": {
+        "title": "水上摩托跳岛游",
+        "subtitle": "六岛远征",
+        "description": "自驾水上摩托环游普吉岛周边6座岛屿。在凯岛、纳卡岛和朗牙岛停靠，享受游泳、浮潜和沙滩时光。",
+        "badge": "肾上腺素",
+        "duration": "3-4小时",
+        "highlights": ["自驾水上摩托", "6岛停靠", "游泳与浮潜", "沙滩时光"],
+        "includes": ["水上摩托与燃油", "救生衣", "导游摩托领航", "保险"]
+      },
+      "parasailing-phuket": {
+        "title": "拖曳伞冒险",
+        "subtitle": "翱翔安达曼海上空",
+        "description": "在巴东海滩碧绿的海水上空翱翔，俯瞰海岸线全景。还包含香蕉船体验，加倍欢乐。",
+        "duration": "30分钟",
+        "highlights": ["全景视野", "含香蕉船", "安全专业", "摄影套餐"],
+        "includes": ["拖曳伞飞行", "香蕉船", "救生衣", "安全说明"]
+      },
+      "samet-nangshe-sunrise": {
+        "title": "沙美南社日出",
+        "subtitle": "泰国最佳观景点",
+        "description": "凌晨起身，迎接泰国最壮观的日出。看晨光洒满攀牙湾百余座石灰岩喀斯特峰。行程结合詹姆斯邦德岛参观。",
+        "badge": "网红打卡点",
+        "duration": "全天",
+        "highlights": ["标志性日出", "攀牙湾全景", "詹姆斯邦德岛", "攀仪岛渔村"],
+        "includes": ["酒店接送", "早餐", "午餐", "导游"]
+      }
+    }
+  }
+}

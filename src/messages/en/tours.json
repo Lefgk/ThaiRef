@@ -1,0 +1,352 @@
+{
+  "tours": {
+    "detail": {
+      "tourHighlights": "Tour Highlights",
+      "whatsIncluded": "What's Included",
+      "faq": "Frequently Asked Questions",
+      "readyToExperience": "Ready to experience {tourTitle}?",
+      "bookNowSave": "Book now and save {discount}% \u2014 limited spots available.",
+      "allTours": "All Tours",
+      "home": "Home",
+      "toursLabel": "Tours",
+      "bookNowWhatsApp": "Book Now",
+      "freeCancellation24h": "Free cancellation up to 24 hours before",
+      "perPerson": "per person",
+      "save": "Save {discount}%",
+      "freeHotelPickup": "Free hotel pickup",
+      "reviews": "{count} reviews",
+      "faqIncluded": "What is included in the {tourTitle} tour?",
+      "faqIncludedAnswer": "The {tourTitle} tour includes: {includes}. The tour duration is {duration}.",
+      "faqPickupYes": "Is hotel pickup included for the {tourTitle} tour?",
+      "faqPickupYesAnswer": "Yes! Free hotel pickup and drop-off is included from major hotels in {location}. Our driver will collect you directly from your hotel lobby.",
+      "faqPickupNo": "How do I get to the {tourTitle} starting point?",
+      "faqPickupNoAnswer": "Hotel pickup is not included for this tour. You will need to make your own way to the meeting point in {location}. We will send you the exact location and directions after booking.",
+      "faqPricing": "How much does the {tourTitle} cost and what is the cancellation policy?",
+      "faqPricingAnswer": "The {tourTitle} is priced at {price} {currency} per person (originally {originalPrice} {currency}). Free cancellation up to 24 hours before the tour with a full refund, no questions asked.",
+      "faqSwimming": "Is the {tourTitle} suitable for non-swimmers?",
+      "faqSwimmingAnswer": "Life jackets are provided for all guests and wearing them is encouraged. Snorkeling is optional on most stops. However, if the tour includes diving, basic swimming ability is recommended. Our guides are trained in water safety.",
+      "faqBeginners": "Is the {tourTitle} suitable for beginners?",
+      "faqBeginnersAnswer": "Yes! The {tourTitle} is designed to be accessible to all experience levels, including complete beginners. Professional instructors and guides will be with you throughout the experience.",
+      "faqBring": "What should I bring on the {tourTitle}?",
+      "faqBringAnswer": "We recommend comfortable walking shoes, sunscreen, insect repellent, a hat, and a waterproof bag for your belongings. Drinking water and refreshments are provided.",
+      "faqChildren": "Is the {tourTitle} suitable for children?",
+      "faqChildrenAnswer": "Most of our tours are suitable for children aged 4 and above. Life jackets are available in all sizes. Children under 4 are typically free, and ages 4-11 receive a 50% discount. Contact us for specific age restrictions."
+    },
+    "items": {
+      "phi-phi-speedboat": {
+        "title": "Phi Phi Islands",
+        "subtitle": "Speedboat Day Trip",
+        "description": "Visit Maya Bay, Pileh Lagoon, Viking Cave, and snorkel in crystal-clear waters. Small group tour with max 20 guests for an intimate experience.",
+        "badge": "Best Seller",
+        "duration": "8-9 hours",
+        "highlights": ["Maya Bay", "Pileh Lagoon", "Monkey Beach", "Snorkeling"],
+        "includes": ["Hotel pickup", "Lunch", "Snorkel gear", "National park fee"]
+      },
+      "james-bond-island": {
+        "title": "James Bond Island",
+        "subtitle": "Phang Nga Bay by Speedboat",
+        "description": "Explore the iconic James Bond Island, kayak through sea caves, visit floating villages, and discover hidden lagoons in Phang Nga Bay.",
+        "badge": "Popular",
+        "duration": "7-8 hours",
+        "highlights": ["James Bond Island", "Sea kayaking", "Hong Island", "Floating village"],
+        "includes": ["Hotel pickup", "Lunch", "Kayak", "Guide"]
+      },
+      "similan-islands": {
+        "title": "Similan Islands",
+        "subtitle": "Snorkeling Paradise",
+        "description": "Travel to Thailand's #1 snorkeling destination. Crystal waters, white sand beaches, and vibrant coral reefs. Open October to May only.",
+        "badge": "Top Rated",
+        "duration": "Full day",
+        "highlights": ["Island #4 Beach", "Snorkeling 3 spots", "Donald Duck Bay", "Lunch on island"],
+        "includes": ["Hotel pickup", "Lunch", "Snorkel gear", "National park fee"]
+      },
+      "phi-phi-sunrise": {
+        "title": "Phi Phi Sunrise Tour",
+        "subtitle": "Beat the Crowds",
+        "description": "Experience Phi Phi before the crowds arrive. Depart at 5:30 AM, reach Maya Bay by sunrise. Maximum 18 guests for an exclusive experience.",
+        "badge": "Premium",
+        "duration": "10 hours",
+        "highlights": ["Sunrise at Maya Bay", "Max 18 guests", "3 snorkel stops", "Bamboo Island"],
+        "includes": ["Hotel pickup", "Breakfast & lunch", "Snorkel gear", "Park fee"]
+      },
+      "racha-island": {
+        "title": "Racha Island",
+        "subtitle": "Coral Reef Paradise",
+        "description": "Just 30 minutes from Phuket, Racha offers pristine white sand and the clearest water in the region. Perfect for snorkeling and diving.",
+        "duration": "7 hours",
+        "highlights": ["White sand beach", "Coral reef snorkeling", "Lunch at resort", "Swimming"],
+        "includes": ["Hotel pickup", "Lunch", "Snorkel gear", "Speedboat"]
+      },
+      "koh-yao-escape": {
+        "title": "Koh Yao Island Escape",
+        "subtitle": "Untouched Paradise",
+        "description": "Escape the crowds on Koh Yao Noi, just 15 minutes from Phuket. Pristine beaches, local fishing villages, and the most peaceful island in the area.",
+        "duration": "Full day",
+        "highlights": ["Pristine beaches", "Local villages", "Bicycle island tour", "Longtail boat"],
+        "includes": ["Hotel pickup", "Lunch", "Ferry transfer", "Bicycle rental"]
+      },
+      "4-islands-krabi": {
+        "title": "4 Islands Krabi",
+        "subtitle": "Emerald Sea Adventure",
+        "description": "Discover Krabi's stunning 4 islands: Tup Island, Chicken Island, Poda Island, and Phra Nang Cave Beach. Swim in the emerald Andaman Sea.",
+        "duration": "7-8 hours",
+        "highlights": ["Tup Island", "Chicken Island", "Phra Nang Cave", "Snorkeling"],
+        "includes": ["Hotel pickup", "Lunch", "Snorkel gear", "Longtail boat"]
+      },
+      "hong-islands-krabi": {
+        "title": "Hong Islands",
+        "subtitle": "Hidden Lagoon Discovery",
+        "description": "Explore secret lagoons surrounded by towering limestone cliffs. Fewer crowds than Phi Phi with pristine beaches and incredible snorkeling.",
+        "badge": "Hidden Gem",
+        "duration": "6-7 hours",
+        "highlights": ["Secret lagoons", "Limestone cliffs", "Kayaking", "Snorkeling"],
+        "includes": ["Hotel pickup", "Lunch", "Snorkel gear", "Kayak"]
+      },
+      "railay-rock-climbing": {
+        "title": "Railay Rock Climbing",
+        "subtitle": "World-Class Limestone Cliffs",
+        "description": "Climb the world-famous limestone cliffs at Railay Beach with professional instructors. Suitable for complete beginners to advanced climbers.",
+        "badge": "Top Rated",
+        "duration": "Half day",
+        "highlights": ["Professional instructors", "Beginner-friendly", "Stunning views", "Phra Nang Cave Beach"],
+        "includes": ["All climbing gear", "Instructor", "Insurance", "Boat transfer"]
+      },
+      "emerald-pool-hot-springs": {
+        "title": "Emerald Pool & Hot Springs",
+        "subtitle": "Jungle Spa Day",
+        "description": "Swim in the famous crystal-clear Emerald Pool, soak in natural hot springs, and climb 1,237 steps to the Tiger Cave Temple summit viewpoint.",
+        "duration": "Full day",
+        "highlights": ["Emerald Pool", "Natural hot springs", "Tiger Cave Temple", "Jungle walk"],
+        "includes": ["Hotel pickup", "Lunch", "Guide", "Entrance fees"]
+      },
+      "krabi-sunset-dinner": {
+        "title": "Krabi Sunset Dinner Cruise",
+        "subtitle": "4 Islands at Golden Hour",
+        "description": "Sail to Koh Poda, Chicken Island, Tup Island and Railay at sunset. BBQ dinner on board, then swim alongside bioluminescent plankton.",
+        "badge": "Romantic",
+        "duration": "6 hours",
+        "highlights": ["4 islands", "BBQ dinner", "Bioluminescent plankton", "Sunset views"],
+        "includes": ["Hotel pickup", "BBQ dinner", "Soft drinks", "Snorkel gear"]
+      },
+      "krabi-mangrove-kayak": {
+        "title": "Mangrove Kayaking",
+        "subtitle": "Ancient Forest Adventure",
+        "description": "Paddle through ancient mangrove forests, explore hidden caves and lagoons. Spot monkeys, exotic birds, and mudskippers in their natural habitat.",
+        "duration": "Half day",
+        "highlights": ["Mangrove tunnels", "Hidden caves", "Wildlife spotting", "Kayaking"],
+        "includes": ["Hotel pickup", "Kayak", "Guide", "Light refreshments"]
+      },
+      "ang-thong-marine-park": {
+        "title": "Ang Thong Marine Park",
+        "subtitle": "42-Island Archipelago",
+        "description": "Explore a stunning 42-island archipelago with emerald lagoons, hidden caves, and panoramic viewpoints. Kayak, snorkel, and hike in paradise.",
+        "badge": "Must Do",
+        "duration": "8-9 hours",
+        "highlights": ["42 islands", "Emerald lagoon", "Kayaking", "Viewpoint hike"],
+        "includes": ["Hotel pickup", "Lunch", "Kayak", "Snorkel gear"]
+      },
+      "koh-tao-snorkel": {
+        "title": "Koh Tao & Nang Yuan",
+        "subtitle": "Snorkel Day Trip",
+        "description": "Visit Thailand's best snorkeling spots at Koh Tao and the iconic Koh Nang Yuan sandbar. See sea turtles, tropical fish, and pristine coral reefs.",
+        "duration": "10 hours",
+        "highlights": ["Koh Nang Yuan sandbar", "Sea turtles", "Coral reefs", "3 snorkel stops"],
+        "includes": ["Hotel pickup", "Lunch", "Snorkel gear", "Speedboat"]
+      },
+      "samui-island-tour": {
+        "title": "Samui Culture & Nature",
+        "subtitle": "Best of the Island",
+        "description": "Visit the Big Buddha Temple, Grandmother & Grandfather Rocks, Na Muang Waterfall, and Lat Ko Viewpoint. The perfect introduction to Koh Samui.",
+        "duration": "Half day",
+        "highlights": ["Big Buddha", "Hin Ta Hin Yai Rocks", "Na Muang Waterfall", "Viewpoint"],
+        "includes": ["Hotel pickup", "Guide", "Entrance fees", "Water"]
+      },
+      "samui-jeep-safari": {
+        "title": "Samui Jungle Jeep Safari",
+        "subtitle": "Off-Road Adventure",
+        "description": "Off-road through rubber plantations, hidden viewpoints, and local villages. Visit waterfalls, taste local fruits, and see the real Koh Samui.",
+        "duration": "Half day",
+        "highlights": ["Off-road jeep", "Jungle waterfalls", "Local villages", "Panoramic views"],
+        "includes": ["Hotel pickup", "Jeep", "Guide", "Fruit tasting"]
+      },
+      "full-moon-party": {
+        "title": "Full Moon Party Transfer",
+        "subtitle": "Koh Phangan Speedboat",
+        "description": "15-minute speedboat ride to the legendary Full Moon Party at Haad Rin Beach, Koh Phangan. Round-trip transfer so you can party all night.",
+        "badge": "Popular",
+        "duration": "Evening",
+        "highlights": ["15-min speedboat", "Round-trip transfer", "World-famous party", "Haad Rin Beach"],
+        "includes": ["Speedboat transfer", "Life jacket", "Return trip"]
+      },
+      "khao-sok-floating-bungalow": {
+        "title": "Khao Sok Floating Bungalow",
+        "subtitle": "2 Days in Ancient Jungle",
+        "description": "Overnight in a floating bamboo bungalow on emerald Cheow Lan Lake. Jungle trek, cave exploration, kayaking, and wildlife spotting.",
+        "badge": "Unique",
+        "duration": "2 days / 1 night",
+        "highlights": ["Floating bungalow", "Jungle trek", "Cave exploration", "Kayaking"],
+        "includes": ["All meals", "Bungalow", "Kayak", "Guide"]
+      },
+      "khao-sok-day-trip": {
+        "title": "Khao Sok Lake Day Trip",
+        "subtitle": "Oldest Rainforest on Earth",
+        "description": "Longtail boat tour of Cheow Lan Lake, jungle trekking with expert guides, and swimming in a 160-million-year-old rainforest.",
+        "duration": "Full day",
+        "highlights": ["Cheow Lan Lake", "Jungle trekking", "Swimming", "Wildlife"],
+        "includes": ["Hotel pickup", "Lunch", "Boat", "Guide"]
+      },
+      "khao-sok-night-safari": {
+        "title": "Night Safari & Wildlife",
+        "subtitle": "Nocturnal Jungle Adventure",
+        "description": "Spot nocturnal wildlife with expert guides in one of the world's oldest rainforests. See gibbons, hornbills, and maybe wild elephants.",
+        "duration": "3-4 hours",
+        "highlights": ["Nocturnal wildlife", "Expert guides", "Gibbons & hornbills", "Ancient rainforest"],
+        "includes": ["Guide", "Flashlight", "Insect repellent", "Light refreshments"]
+      },
+      "khao-lak-bamboo-rafting": {
+        "title": "Bamboo Rafting & Waterfall",
+        "subtitle": "Khao Lak Jungle Day",
+        "description": "Bamboo rafting down a scenic river, visit Ton Chong Fa Waterfall, and trek through lush Khao Lak jungle. Traditional Thai lunch included.",
+        "duration": "Full day",
+        "highlights": ["Bamboo rafting", "Waterfall", "Jungle trek", "Thai lunch"],
+        "includes": ["Hotel pickup", "Lunch", "Equipment", "Guide"]
+      },
+      "similan-liveaboard": {
+        "title": "Similan Liveaboard 3N",
+        "subtitle": "Ultimate Dive Trip",
+        "description": "3-night liveaboard diving expedition to Similan Islands and Richelieu Rock, Thailand's best dive site. Multiple dives daily with top-tier equipment.",
+        "badge": "Premium",
+        "duration": "4 days / 3 nights",
+        "highlights": ["Richelieu Rock", "10+ dives", "All equipment", "Full board"],
+        "includes": ["Accommodation", "All meals", "Dive equipment", "Dive guide"]
+      },
+      "koh-lanta-4-islands": {
+        "title": "Koh Lanta 4 Islands",
+        "subtitle": "Emerald Cave Adventure",
+        "description": "Visit Koh Mook's famous Emerald Cave (swim through darkness into a hidden beach), snorkel at Koh Kradan, Koh Chuak, and relax on Koh Ngai.",
+        "badge": "Hidden Gem",
+        "duration": "7-8 hours",
+        "highlights": ["Emerald Cave", "Koh Kradan", "Koh Ngai", "Snorkeling"],
+        "includes": ["Hotel pickup", "Lunch", "Snorkel gear", "National park fee"]
+      },
+      "koh-lanta-old-town": {
+        "title": "Koh Lanta Old Town",
+        "subtitle": "Heritage & Culture Walk",
+        "description": "Explore the traditional sea gypsy village with wooden stilt houses over the sea, ancient Chinese shophouses, and incredible local seafood.",
+        "duration": "Half day",
+        "highlights": ["Sea gypsy village", "Stilt houses", "Local seafood", "Street art"],
+        "includes": ["Guide", "Snack tasting", "Boat transfer"]
+      },
+      "private-yacht": {
+        "title": "Private Yacht Charter",
+        "subtitle": "Luxury Island Hopping",
+        "description": "Charter your own yacht and create a custom island-hopping itinerary. Visit Phi Phi, Racha, Coral Island, or anywhere you choose.",
+        "badge": "VIP",
+        "duration": "8 hours",
+        "highlights": ["Your own yacht", "Custom itinerary", "Captain & crew", "Up to 15 guests"],
+        "includes": ["Yacht & crew", "Fuel", "Snorkel gear", "Soft drinks & fruit"]
+      },
+      "sunset-dinner-cruise": {
+        "title": "Sunset Dinner Cruise",
+        "subtitle": "Andaman Sea at Golden Hour",
+        "description": "Sail into the sunset aboard a luxury catamaran. Enjoy a gourmet buffet dinner, live music, and panoramic views of the Andaman coast.",
+        "duration": "4 hours",
+        "highlights": ["Sunset views", "Buffet dinner", "Live music", "Open bar"],
+        "includes": ["Pier transfer", "Buffet dinner", "Welcome drink", "Entertainment"]
+      },
+      "scuba-diving": {
+        "title": "PADI Discover Scuba",
+        "subtitle": "First Dive Experience",
+        "description": "No experience needed. Learn to dive with PADI-certified instructors at Racha Island. See tropical fish, coral gardens, and maybe even a turtle.",
+        "badge": "PADI Certified",
+        "duration": "Full day",
+        "highlights": ["2 dives", "PADI instructors", "All equipment", "Underwater photos"],
+        "includes": ["Hotel pickup", "Lunch", "All dive equipment", "Insurance"]
+      },
+      "elephant-sanctuary": {
+        "title": "Elephant Sanctuary",
+        "subtitle": "Ethical Elephant Experience",
+        "description": "Visit rescued elephants in their natural habitat. Feed, bathe, and walk alongside gentle giants. No riding, 100% ethical.",
+        "badge": "Ethical",
+        "duration": "Half day",
+        "highlights": ["Feed elephants", "Mud bath", "River bathing", "Photo opportunities"],
+        "includes": ["Hotel pickup", "Lunch", "Guide", "Change of clothes"]
+      },
+      "zipline-adventure": {
+        "title": "Hanuman World Zipline",
+        "subtitle": "Fly Through the Jungle",
+        "description": "Soar through the Phuket rainforest on 32 platforms, including a 400m zipline. The ultimate adrenaline experience in Phuket.",
+        "duration": "3-4 hours",
+        "highlights": ["32 platforms", "400m zipline", "Sky bridge", "Abseil descent"],
+        "includes": ["Hotel pickup", "Safety equipment", "Guide", "Light meal"]
+      },
+      "fishing-trip": {
+        "title": "Deep Sea Fishing",
+        "subtitle": "Big Game Adventure",
+        "description": "Head offshore for a full day of deep sea fishing. Target sailfish, marlin, tuna, and more in the Andaman Sea.",
+        "duration": "Full day",
+        "highlights": ["All tackle provided", "Experienced captain", "Big game fishing", "Lunch included"],
+        "includes": ["Pier transfer", "Fishing equipment", "Lunch & drinks", "Bait & ice"]
+      },
+      "thai-cooking-class": {
+        "title": "Thai Cooking Class",
+        "subtitle": "Learn Authentic Recipes",
+        "description": "Visit a local market to pick ingredients, then cook 5-7 Thai dishes with an expert chef. Take home a recipe book and bragging rights.",
+        "badge": "Popular",
+        "duration": "Half day",
+        "highlights": ["Market visit", "Cook 5-7 dishes", "Recipe book", "Eat everything you make"],
+        "includes": ["Hotel pickup", "All ingredients", "Recipe book", "Certificate"]
+      },
+      "muay-thai-experience": {
+        "title": "Muay Thai Experience",
+        "subtitle": "Train Like a Fighter",
+        "description": "Learn authentic Muay Thai from professional fighters. Private pad work training, technique drills, and a full workout. All fitness levels welcome.",
+        "duration": "1-2 hours",
+        "highlights": ["Pro fighters", "Private training", "All levels", "Photo in gear"],
+        "includes": ["Equipment", "Instructor", "Water", "Hand wraps"]
+      },
+      "atv-big-buddha": {
+        "title": "ATV Jungle & Big Buddha",
+        "subtitle": "Off-Road Adventure",
+        "description": "Drive an ATV through Phuket's jungle trails to Big Buddha viewpoint. Panoramic views of the bay, then visit Wat Chalong temple.",
+        "duration": "2 hours",
+        "highlights": ["ATV riding", "Big Buddha viewpoint", "Jungle trails", "Wat Chalong"],
+        "includes": ["Hotel pickup", "ATV & helmet", "Guide", "Insurance"]
+      },
+      "old-town-food-walk": {
+        "title": "Old Town Food & Heritage",
+        "subtitle": "Phuket Walking Tour",
+        "description": "Explore Phuket Old Town's Portuguese architecture, street art, and local markets. Taste 8+ dishes at hidden local restaurants the tourists miss.",
+        "duration": "4 hours",
+        "highlights": ["8+ food tastings", "Street art", "Portuguese architecture", "Local markets"],
+        "includes": ["All food tastings", "Guide", "Water", "Map"]
+      },
+      "jet-ski-island-hop": {
+        "title": "Jet Ski Island Hopping",
+        "subtitle": "6-Island Expedition",
+        "description": "Drive your own jet ski to 6 islands around Phuket. Stop at Khai, Naka, and Rang Yai islands for swimming, snorkeling, and beach time.",
+        "badge": "Adrenaline",
+        "duration": "3-4 hours",
+        "highlights": ["Drive your own jet ski", "6 island stops", "Swimming & snorkeling", "Beach time"],
+        "includes": ["Jet ski & fuel", "Life jacket", "Guide on jet ski", "Insurance"]
+      },
+      "parasailing-phuket": {
+        "title": "Parasailing Adventure",
+        "subtitle": "Fly Over the Andaman Sea",
+        "description": "Soar above the turquoise waters of Patong Beach with panoramic views of the coastline. Includes banana boat ride for extra fun.",
+        "duration": "30 min",
+        "highlights": ["Panoramic views", "Banana boat included", "Safe & professional", "Photo package"],
+        "includes": ["Parasailing flight", "Banana boat", "Life jacket", "Safety briefing"]
+      },
+      "samet-nangshe-sunrise": {
+        "title": "Samet Nangshe Sunrise",
+        "subtitle": "Best Viewpoint in Thailand",
+        "description": "Wake before dawn for Thailand's most spectacular sunrise. Watch light paint across Phang Nga Bay's 100+ limestone karsts. Combined with James Bond Island visit.",
+        "badge": "Instagram Famous",
+        "duration": "Full day",
+        "highlights": ["Iconic sunrise", "Phang Nga Bay panorama", "James Bond Island", "Koh Panyi village"],
+        "includes": ["Hotel pickup", "Breakfast", "Lunch", "Guide"]
+      }
+    }
+  }
+}

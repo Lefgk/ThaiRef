@@ -1,0 +1,85 @@
+{
+  "common": {
+    "nav": {
+      "tours": "ทัวร์",
+      "reviews": "รีวิว",
+      "howItWorks": "ขั้นตอนการจอง",
+      "faq": "คำถามที่พบบ่อย",
+      "contact": "ติดต่อเรา",
+      "bookNow": "จองเลย"
+    },
+    "footer": {
+      "brandDescription": "แพลตฟอร์มจองทัวร์ที่ได้รับความไว้วางใจในภูเก็ต เราเชื่อมต่อคุณกับผู้ให้บริการท้องถิ่นที่ดีที่สุดในราคาที่คุ้มค่าที่สุด",
+      "popularTours": "ทัวร์ยอดนิยม",
+      "activities": "กิจกรรม",
+      "contactUs": "ติดต่อเรา",
+      "operatingHours": "เวลาทำการ",
+      "dailyHours": "ทุกวัน 7:00 - 22:00 น.",
+      "timezone": "เวลาประเทศไทย (GMT+7)",
+      "location": "ภูเก็ต, ประเทศไทย",
+      "copyright": "\u00a9 {year} IslandTrip.co สงวนลิขสิทธิ์",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfService": "เงื่อนไขการใช้บริการ",
+      "refundPolicy": "นโยบายการคืนเงิน",
+      "popularToursList": {
+        "phiPhi": "หมู่เกาะพีพี",
+        "jamesBond": "เกาะเจมส์บอนด์",
+        "similan": "หมู่เกาะสิมิลัน",
+        "fourIslands": "4 เกาะ กระบี่",
+        "racha": "เกาะราชา",
+        "sunsetCruise": "ล่องเรือดินเนอร์ชมพระอาทิตย์ตก"
+      },
+      "activitiesList": {
+        "scubaDiving": "ดำน้ำลึก",
+        "elephantSanctuary": "ศูนย์อนุรักษ์ช้าง",
+        "zipline": "ซิปไลน์ผจญภัย",
+        "fishing": "ตกปลาทะเลลึก",
+        "yacht": "เช่าเรือยอทช์ส่วนตัว",
+        "kayaking": "พายเรือคายัค"
+      }
+    },
+    "tourCard": {
+      "freePickup": "รับส่งฟรี",
+      "perPerson": "ต่อท่าน",
+      "bookNow": "จองเลย",
+      "bookWhatsapp": "สวัสดีครับ/ค่ะ! สนใจทัวร์ {tourTitle} ({price} THB) ช่วยจองให้หน่อยได้ไหมครับ/คะ?"
+    },
+    "trustBadges": {
+      "freeCancellation": "ยกเลิกฟรี",
+      "bestPrice": "รับประกันราคาดีที่สุด",
+      "instantConfirmation": "ยืนยันทันที",
+      "hotelPickup": "รับส่งถึงโรงแรม",
+      "licensed": "มีใบอนุญาตและประกันภัย",
+      "tatApproved": "ผู้ประกอบการที่ ททท. รับรอง",
+      "securePayments": "ชำระเงินปลอดภัย",
+      "emailSupport": "อีเมล ตลอด 24 ชั่วโมง"
+    },
+    "languageSwitcher": {
+      "en": "English",
+      "ru": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+      "zh": "\u4e2d\u6587",
+      "th": "\u0e44\u0e17\u0e22"
+    },
+    "urgency": {
+      "spotsLeft": "เหลือเพียง {count} ที่เท่านั้น!",
+      "bookingsToday": "จองแล้ว {count} คนวันนี้"
+    },
+    "emailCapture": {
+      "title": "รับส่วนลด 10% สำหรับทัวร์แรกของคุณ",
+      "subtitle": "เข้าร่วมกับนักท่องเที่ยวกว่า 12,500 คน รับดีลพิเศษ เคล็ดลับจากคนในพื้นที่ และโปรโมชั่นสุดคุ้ม",
+      "placeholder": "กรอกอีเมลของคุณ",
+      "cta": "รับส่วนลด",
+      "noSpam": "ไม่มีสแปม ยกเลิกได้ทุกเมื่อ",
+      "success": "สำเร็จ! ตรวจสอบกล่องจดหมายของคุณเพื่อรับรหัสส่วนลด"
+    },
+    "relatedTours": {
+      "title": "คุณอาจชอบสิ่งเหล่านี้",
+      "subtitle": "ทัวร์ที่คล้ายกันที่คุณจะชอบ"
+    },
+    "gallery": {
+      "viewAll": "ดูรูปภาพทั้งหมด",
+      "close": "ปิด",
+      "photo": "รูปที่ {current} จาก {total}"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "home": {
+    "hero": {
+      "badge": "普吉岛排名第一的旅游预订平台",
+      "headline1": "探索天堂。",
+      "headline2": "最高立省50%。",
+      "subheadline": "皮皮岛、詹姆斯邦德岛、斯米兰等50+精选旅游线路。运营商直接定价，免费酒店接送，即时确认出行。",
+      "browseTours": "浏览全部线路",
+      "readReviews": "查看评价"
+    },
+    "stats": {
+      "travelers": "12,500+",
+      "travelersLabel": "满意游客",
+      "reviews": "98%",
+      "reviewsLabel": "五星好评",
+      "tours": "50+",
+      "toursLabel": "精选线路",
+      "support": "24/7",
+      "supportLabel": "全天候客服"
+    },
+    "featured": {
+      "sectionLabel": "精选体验",
+      "title": "探索我们的旅游线路",
+      "subtitle": "精心挑选的泰国南部旅游线路 — 覆盖普吉、甲米、苏梅岛、考索等热门目的地。每条线路均享最低价保证。",
+      "customTourText": "没找到想要的？我们可以为您定制专属行程。",
+      "customTourCta": "申请定制行程",
+      "customTourWhatsapp": "您好！我想定制一条旅游线路，可以帮忙安排吗？"
+    },
+    "filters": {
+      "sortBy": "排序：",
+      "mostPopular": "最受欢迎",
+      "priceLowHigh": "价格：从低到高",
+      "priceHighLow": "价格：从高到低",
+      "topRated": "评分最高",
+      "duration": "时长：",
+      "anyDuration": "不限时长",
+      "halfDay": "半日游",
+      "fullDay": "一日游",
+      "multiDay": "多日游",
+      "maxPrice": "最高价格：",
+      "any": "不限",
+      "showing": "{count} 条线路",
+      "noResults": "没有符合筛选条件的线路。",
+      "clearFilters": "清除所有筛选"
+    },
+    "howItWorks": {
+      "sectionLabel": "简单流程",
+      "title": "预订流程",
+      "subtitle": "从浏览到出发，一切轻松搞定。",
+      "step1Title": "选择您的行程",
+      "step1Desc": "浏览我们精选的50+旅游线路。按类别筛选、阅读真实评价、比较价格。",
+      "step2Title": "即时预订",
+      "step2Desc": "通过WhatsApp、电子邮件或预订表单预留名额。仅需支付少量订金，余款出行当天支付。",
+      "step3Title": "尽情享受",
+      "step3Desc": "免费酒店上门接送。畅游海岛、浮潜体验，留下美好回忆。"
+    },
+    "categories": {
+      "all": "全部线路",
+      "islands": "海岛游",
+      "krabi": "甲米",
+      "samui": "苏梅岛",
+      "nature": "自然与丛林",
+      "luxury": "奢华体验",
+      "diving": "潜水",
+      "activities": "活动项目"
+    }
+  }
+}

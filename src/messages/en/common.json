@@ -1,0 +1,85 @@
+{
+  "common": {
+    "nav": {
+      "tours": "Tours",
+      "reviews": "Reviews",
+      "howItWorks": "How It Works",
+      "faq": "FAQ",
+      "contact": "Contact",
+      "bookNow": "Book Now"
+    },
+    "footer": {
+      "brandDescription": "Phuket's trusted tour booking platform. We connect you directly with the best local operators at unbeatable prices.",
+      "popularTours": "Popular Tours",
+      "activities": "Activities",
+      "contactUs": "Contact Us",
+      "operatingHours": "Operating Hours",
+      "dailyHours": "Daily 7:00 AM - 10:00 PM",
+      "timezone": "Thai time (GMT+7)",
+      "location": "Phuket, Thailand",
+      "copyright": "\u00a9 {year} IslandTrip.co. All rights reserved.",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service",
+      "refundPolicy": "Refund Policy",
+      "popularToursList": {
+        "phiPhi": "Phi Phi Islands",
+        "jamesBond": "James Bond Island",
+        "similan": "Similan Islands",
+        "fourIslands": "4 Islands Krabi",
+        "racha": "Racha Island",
+        "sunsetCruise": "Sunset Dinner Cruise"
+      },
+      "activitiesList": {
+        "scubaDiving": "Scuba Diving",
+        "elephantSanctuary": "Elephant Sanctuary",
+        "zipline": "Zipline Adventure",
+        "fishing": "Deep Sea Fishing",
+        "yacht": "Private Yacht Charter",
+        "kayaking": "Kayaking"
+      }
+    },
+    "tourCard": {
+      "freePickup": "Free pickup",
+      "perPerson": "per person",
+      "bookNow": "Book Now",
+      "bookWhatsapp": "Hi! I'm interested in the {tourTitle} tour ({price} THB). Can you help me book?"
+    },
+    "trustBadges": {
+      "freeCancellation": "Free Cancellation",
+      "bestPrice": "Best Price Guarantee",
+      "instantConfirmation": "Instant Confirmation",
+      "hotelPickup": "Hotel Pickup Included",
+      "licensed": "Licensed & Insured",
+      "tatApproved": "TAT Approved Operators",
+      "securePayments": "Secure Payments",
+      "emailSupport": "24/7 Email Support"
+    },
+    "languageSwitcher": {
+      "en": "English",
+      "ru": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+      "zh": "\u4e2d\u6587",
+      "th": "\u0e44\u0e17\u0e22"
+    },
+    "urgency": {
+      "spotsLeft": "Only {count} spots left!",
+      "bookingsToday": "{count} booked today"
+    },
+    "emailCapture": {
+      "title": "Get 10% Off Your First Tour",
+      "subtitle": "Join 12,500+ travelers. Get exclusive deals, insider tips, and instant access to flash sales.",
+      "placeholder": "Enter your email",
+      "cta": "Get My Discount",
+      "noSpam": "No spam, unsubscribe anytime.",
+      "success": "You're in! Check your inbox for your discount code."
+    },
+    "relatedTours": {
+      "title": "You Might Also Like",
+      "subtitle": "Similar tours you'll love"
+    },
+    "gallery": {
+      "viewAll": "View All Photos",
+      "close": "Close",
+      "photo": "Photo {current} of {total}"
+    }
+  }
+}
